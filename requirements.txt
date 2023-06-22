@@ -61,7 +61,6 @@ protobuf==3.20.3
 psutil==5.9.5
 publicsuffix2==2.20191221
 pyasn1==0.4.8
-PyAudio @ file:///F:/Downloads/PyAudio-0.2.11-cp310-cp310-win_amd64.whl
 pycparser==2.21
 pydivert==2.1.0
 PyMsgBox==1.0.9
