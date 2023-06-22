@@ -40,7 +40,7 @@ librosa==0.10.0
 llvmlite==0.39.1
 MarkupSafe==2.1.1
 matplotlib
-mediapipe==0.10.0
+mediapipe
 mitmproxy==9.0.1
 mitmproxy_wireguard==0.1.19
 more-itertools==8.14.0
