@@ -22,7 +22,7 @@ exceptiongroup==1.1.1
 Flask==2.2.2
 Flask-Cors==3.0.10
 flatbuffers==23.5.26
-fonttools==4.39.4
+fonttools
 h11==0.14.0
 h2==4.1.0
 hpack==4.0.0
