@@ -41,7 +41,7 @@ llvmlite==0.39.1
 MarkupSafe==2.1.1
 matplotlib
 mediapipe
-mitmproxy==9.0.1
+mitmproxy
 mitmproxy_wireguard==0.1.19
 more-itertools==8.14.0
 msgpack==1.0.4
